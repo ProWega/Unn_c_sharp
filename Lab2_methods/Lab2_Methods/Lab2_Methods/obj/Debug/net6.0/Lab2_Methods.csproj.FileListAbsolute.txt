@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\UpperLvl\Lab2_methods\Lab2_Methods\Lab2_Methods\bin\Debug\net6.0\Lab2_Methods.exe
+C:\Users\Admin\source\repos\UpperLvl\Lab2_methods\Lab2_Methods\Lab2_Methods\bin\Debug\net6.0\Lab2_Methods.deps.json
+C:\Users\Admin\source\repos\UpperLvl\Lab2_methods\Lab2_Methods\Lab2_Methods\bin\Debug\net6.0\Lab2_Methods.runtimeconfig.json
+C:\Users\Admin\source\repos\UpperLvl\Lab2_methods\Lab2_Methods\Lab2_Methods\bin\Debug\net6.0\Lab2_Methods.dll
+C:\Users\Admin\source\repos\UpperLvl\Lab2_methods\Lab2_Methods\Lab2_Methods\bin\Debug\net6.0\ref\Lab2_Methods.dll
+C:\Users\Admin\source\repos\UpperLvl\Lab2_methods\Lab2_Methods\Lab2_Methods\bin\Debug\net6.0\Lab2_Methods.pdb
+C:\Users\Admin\source\repos\UpperLvl\Lab2_methods\Lab2_Methods\Lab2_Methods\obj\Debug\net6.0\Lab2_Methods.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\UpperLvl\Lab2_methods\Lab2_Methods\Lab2_Methods\obj\Debug\net6.0\Lab2_Methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\UpperLvl\Lab2_methods\Lab2_Methods\Lab2_Methods\obj\Debug\net6.0\Lab2_Methods.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\UpperLvl\Lab2_methods\Lab2_Methods\Lab2_Methods\obj\Debug\net6.0\Lab2_Methods.AssemblyInfo.cs
+C:\Users\Admin\source\repos\UpperLvl\Lab2_methods\Lab2_Methods\Lab2_Methods\obj\Debug\net6.0\Lab2_Methods.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\UpperLvl\Lab2_methods\Lab2_Methods\Lab2_Methods\obj\Debug\net6.0\Lab2_Methods.dll
+C:\Users\Admin\source\repos\UpperLvl\Lab2_methods\Lab2_Methods\Lab2_Methods\obj\Debug\net6.0\ref\Lab2_Methods.dll
+C:\Users\Admin\source\repos\UpperLvl\Lab2_methods\Lab2_Methods\Lab2_Methods\obj\Debug\net6.0\Lab2_Methods.pdb
+C:\Users\Admin\source\repos\UpperLvl\Lab2_methods\Lab2_Methods\Lab2_Methods\obj\Debug\net6.0\Lab2_Methods.genruntimeconfig.cache
