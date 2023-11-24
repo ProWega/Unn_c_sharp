@@ -16,5 +16,4 @@ void Check(int[] arr)
         prev = arr[i];
     }
     Console.WriteLine("NO");
-    
 }

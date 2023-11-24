@@ -42,13 +42,14 @@ namespace Lab2_Methods
         public void RemoveLast()
         {
             size--;
+            Console.WriteLine($"Remove last {tail.Data}");
             tail = tail.Previous;
             tail.Next = null;
         }
         public void AddFirst(T element)
         {
-            
-            
+
+            Console.WriteLine($"Add First {element}");
             DoublyNode<T> node = new DoublyNode<T>(element);
             if (size == 0)
             {
@@ -61,6 +62,7 @@ namespace Lab2_Methods
         }
         public void RemoveFirst()
         {
+            //Console.WriteLine($"Remove First {head.Data}");
             size--;
             head = head.Next;
             head.Previous = null;

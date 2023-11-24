@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\UpperLvl\Lab3_classes\Lab3_classes\Lab3_classes\bin\Debug\net6.0\Lab3_classes.exe
+C:\Users\Admin\source\repos\UpperLvl\Lab3_classes\Lab3_classes\Lab3_classes\bin\Debug\net6.0\Lab3_classes.deps.json
+C:\Users\Admin\source\repos\UpperLvl\Lab3_classes\Lab3_classes\Lab3_classes\bin\Debug\net6.0\Lab3_classes.runtimeconfig.json
+C:\Users\Admin\source\repos\UpperLvl\Lab3_classes\Lab3_classes\Lab3_classes\bin\Debug\net6.0\Lab3_classes.dll
+C:\Users\Admin\source\repos\UpperLvl\Lab3_classes\Lab3_classes\Lab3_classes\bin\Debug\net6.0\ref\Lab3_classes.dll
+C:\Users\Admin\source\repos\UpperLvl\Lab3_classes\Lab3_classes\Lab3_classes\bin\Debug\net6.0\Lab3_classes.pdb
+C:\Users\Admin\source\repos\UpperLvl\Lab3_classes\Lab3_classes\Lab3_classes\obj\Debug\net6.0\Lab3_classes.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\UpperLvl\Lab3_classes\Lab3_classes\Lab3_classes\obj\Debug\net6.0\Lab3_classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\UpperLvl\Lab3_classes\Lab3_classes\Lab3_classes\obj\Debug\net6.0\Lab3_classes.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\UpperLvl\Lab3_classes\Lab3_classes\Lab3_classes\obj\Debug\net6.0\Lab3_classes.AssemblyInfo.cs
+C:\Users\Admin\source\repos\UpperLvl\Lab3_classes\Lab3_classes\Lab3_classes\obj\Debug\net6.0\Lab3_classes.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\UpperLvl\Lab3_classes\Lab3_classes\Lab3_classes\obj\Debug\net6.0\Lab3_classes.dll
+C:\Users\Admin\source\repos\UpperLvl\Lab3_classes\Lab3_classes\Lab3_classes\obj\Debug\net6.0\ref\Lab3_classes.dll
+C:\Users\Admin\source\repos\UpperLvl\Lab3_classes\Lab3_classes\Lab3_classes\obj\Debug\net6.0\Lab3_classes.pdb
+C:\Users\Admin\source\repos\UpperLvl\Lab3_classes\Lab3_classes\Lab3_classes\obj\Debug\net6.0\Lab3_classes.genruntimeconfig.cache
