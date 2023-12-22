@@ -12,8 +12,10 @@ using System.Text.Json;
 //}
 HRDirector hr = new HRDirector();
 Baker.hr = hr;
-Deliverer.hr = hr;  
+Deliverer.hr = hr;
 hr.LazyHuntNewBaker(20000);
+//hr.HuntBakersFromJson();
+Console.WriteLine(hr.bakerList.Count());
 PizzaStock stock = new PizzaStock(3);
 CookDirector cook = new CookDirector();
 hr.cook = cook;
@@ -45,3 +47,5 @@ foreach (Worker worker in hr.workerList)
     worker.EndDay();
 }
 hr.AnalyzeWorkers();
+hr.PrintJsonBakers();
+//hr.SaveBakersToJson();  

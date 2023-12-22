@@ -1,0 +1,10 @@
+[
+    {
+        "cookDirector": null,
+            "Stock": null,
+        "Id": 0,
+        "isWorking": false,
+        "salary": 15000,
+        "loyalityRate": 1
+    }
+]

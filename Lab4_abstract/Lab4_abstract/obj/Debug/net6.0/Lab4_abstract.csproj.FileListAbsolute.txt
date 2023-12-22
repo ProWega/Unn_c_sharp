@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\UpperLvl\Lab4_abstract\Lab4_abstract\bin\Debug\net6.0\Lab4_abstract.exe
+C:\Users\Admin\source\repos\UpperLvl\Lab4_abstract\Lab4_abstract\bin\Debug\net6.0\Lab4_abstract.deps.json
+C:\Users\Admin\source\repos\UpperLvl\Lab4_abstract\Lab4_abstract\bin\Debug\net6.0\Lab4_abstract.runtimeconfig.json
+C:\Users\Admin\source\repos\UpperLvl\Lab4_abstract\Lab4_abstract\bin\Debug\net6.0\Lab4_abstract.dll
+C:\Users\Admin\source\repos\UpperLvl\Lab4_abstract\Lab4_abstract\bin\Debug\net6.0\ref\Lab4_abstract.dll
+C:\Users\Admin\source\repos\UpperLvl\Lab4_abstract\Lab4_abstract\bin\Debug\net6.0\Lab4_abstract.pdb
+C:\Users\Admin\source\repos\UpperLvl\Lab4_abstract\Lab4_abstract\obj\Debug\net6.0\Lab4_abstract.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\UpperLvl\Lab4_abstract\Lab4_abstract\obj\Debug\net6.0\Lab4_abstract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\UpperLvl\Lab4_abstract\Lab4_abstract\obj\Debug\net6.0\Lab4_abstract.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\UpperLvl\Lab4_abstract\Lab4_abstract\obj\Debug\net6.0\Lab4_abstract.AssemblyInfo.cs
+C:\Users\Admin\source\repos\UpperLvl\Lab4_abstract\Lab4_abstract\obj\Debug\net6.0\Lab4_abstract.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\UpperLvl\Lab4_abstract\Lab4_abstract\obj\Debug\net6.0\Lab4_abstract.dll
+C:\Users\Admin\source\repos\UpperLvl\Lab4_abstract\Lab4_abstract\obj\Debug\net6.0\ref\Lab4_abstract.dll
+C:\Users\Admin\source\repos\UpperLvl\Lab4_abstract\Lab4_abstract\obj\Debug\net6.0\Lab4_abstract.pdb
+C:\Users\Admin\source\repos\UpperLvl\Lab4_abstract\Lab4_abstract\obj\Debug\net6.0\Lab4_abstract.genruntimeconfig.cache

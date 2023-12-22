@@ -9,12 +9,18 @@
 
   <ItemGroup>
     <Compile Remove="ex1.cs" />
-    <Compile Remove="ex2.cs" />
+    <Compile Remove="ex3.cs" />
+    <Compile Remove="JsonTraining.cs" />
   </ItemGroup>
 
   <ItemGroup>
     <None Include="ex1.cs" />
-    <None Include="ex2.cs" />
+    <None Include="ex3.cs" />
+    <None Include="JsonTraining.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
   </ItemGroup>
 
 </Project>

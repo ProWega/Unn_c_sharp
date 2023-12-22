@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Newtonsoft.Json;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -81,6 +82,24 @@ namespace Lab3_classes
             {
                 Console.WriteLine("Имеет смысл нанять доставщиков, тк слишком много заказов не доставлено");
             }
+        }
+        public void PrintJsonBakers()
+        {
+            string bakers = JsonConvert.SerializeObject(bakerList);
+            Console.WriteLine(bakers);
+        }
+        public void HuntBakersFromJson()
+        {
+            List<Baker> bakers = JsonConvert.DeserializeObject<List<Baker>>("ba.json");
+            foreach (Baker baker in bakers)
+            {
+                bakerList.Add(baker);
+            }
+        }
+        public void SaveBakersToJson()
+        {
+            File.WriteAllText(@"C:\Users\Admin\source\repos\UpperLvl\Lab3_classes\Lab3_classes\Lab3_classes\ba.json", JsonConvert.SerializeObject(bakerList));
+            Console.WriteLine("Write to json");
         }
     }
 }

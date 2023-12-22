@@ -1,0 +1,1 @@
+[{"cookDirector":{"orders":[],"ordersCookingList":[],"ordersReady":[],"ordersDelivering":[],"ordersDeliveredArchive":[{"stockWeight":1.0,"info":null,"Id":1}],"Stock":{"totalCapacity":3.0,"currentTotalLoad":0.0,"items":[]}},"Id":0,"isWorking":false,"salary":15000.0,"loyalityRate":1.0}]

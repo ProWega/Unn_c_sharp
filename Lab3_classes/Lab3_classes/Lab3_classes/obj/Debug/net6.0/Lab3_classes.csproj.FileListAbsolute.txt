@@ -13,3 +13,5 @@ C:\Users\Admin\source\repos\UpperLvl\Lab3_classes\Lab3_classes\Lab3_classes\obj\
 C:\Users\Admin\source\repos\UpperLvl\Lab3_classes\Lab3_classes\Lab3_classes\obj\Debug\net6.0\ref\Lab3_classes.dll
 C:\Users\Admin\source\repos\UpperLvl\Lab3_classes\Lab3_classes\Lab3_classes\obj\Debug\net6.0\Lab3_classes.pdb
 C:\Users\Admin\source\repos\UpperLvl\Lab3_classes\Lab3_classes\Lab3_classes\obj\Debug\net6.0\Lab3_classes.genruntimeconfig.cache
+C:\Users\Admin\source\repos\UpperLvl\Lab3_classes\Lab3_classes\Lab3_classes\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Admin\source\repos\UpperLvl\Lab3_classes\Lab3_classes\Lab3_classes\obj\Debug\net6.0\Lab3_classes.csproj.CopyComplete

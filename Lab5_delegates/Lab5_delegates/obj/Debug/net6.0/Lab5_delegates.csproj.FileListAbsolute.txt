@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\UpperLvl\Lab5_delegates\Lab5_delegates\bin\Debug\net6.0\Lab5_delegates.exe
+C:\Users\Admin\source\repos\UpperLvl\Lab5_delegates\Lab5_delegates\bin\Debug\net6.0\Lab5_delegates.deps.json
+C:\Users\Admin\source\repos\UpperLvl\Lab5_delegates\Lab5_delegates\bin\Debug\net6.0\Lab5_delegates.runtimeconfig.json
+C:\Users\Admin\source\repos\UpperLvl\Lab5_delegates\Lab5_delegates\bin\Debug\net6.0\Lab5_delegates.dll
+C:\Users\Admin\source\repos\UpperLvl\Lab5_delegates\Lab5_delegates\bin\Debug\net6.0\ref\Lab5_delegates.dll
+C:\Users\Admin\source\repos\UpperLvl\Lab5_delegates\Lab5_delegates\bin\Debug\net6.0\Lab5_delegates.pdb
+C:\Users\Admin\source\repos\UpperLvl\Lab5_delegates\Lab5_delegates\obj\Debug\net6.0\Lab5_delegates.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\UpperLvl\Lab5_delegates\Lab5_delegates\obj\Debug\net6.0\Lab5_delegates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\UpperLvl\Lab5_delegates\Lab5_delegates\obj\Debug\net6.0\Lab5_delegates.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\UpperLvl\Lab5_delegates\Lab5_delegates\obj\Debug\net6.0\Lab5_delegates.AssemblyInfo.cs
+C:\Users\Admin\source\repos\UpperLvl\Lab5_delegates\Lab5_delegates\obj\Debug\net6.0\Lab5_delegates.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\UpperLvl\Lab5_delegates\Lab5_delegates\obj\Debug\net6.0\Lab5_delegates.dll
+C:\Users\Admin\source\repos\UpperLvl\Lab5_delegates\Lab5_delegates\obj\Debug\net6.0\ref\Lab5_delegates.dll
+C:\Users\Admin\source\repos\UpperLvl\Lab5_delegates\Lab5_delegates\obj\Debug\net6.0\Lab5_delegates.pdb
+C:\Users\Admin\source\repos\UpperLvl\Lab5_delegates\Lab5_delegates\obj\Debug\net6.0\Lab5_delegates.genruntimeconfig.cache
